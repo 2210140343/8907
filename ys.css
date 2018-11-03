@@ -1,0 +1,86 @@
+
+
+*{padding: 0;margin: 0}
+a{text-decoration:none}
+body,a{font-family:"微软雅黑";font-size: 14px;color: #333333}
+ul{list-style:none}
+
+
+/*====================头部=================*/
+header{width: 100%;height:80px;background-color: #ffffff;clear: both;overflow: hidden;
+    border-bottom: 1px #b0a7a4 solid;position: fixed;z-index: 999}
+.logo{width: 130px;height:60px;margin-left: 100px;margin-top: 10px;margin-right: 10px}
+header p,header a{display: inline-block}
+header p{width:120px;height:30px;line-height: 30px;
+    border-left: #929292   1px  solid;position:absolute;top: 30px;padding-left: 10px}
+header a{width:120px;height:40px;line-height: 40px;position:absolute;}
+header a:hover{color: #ff001b}
+.logo1{top: 20px;left: 60%;background: url("img/yangpinlian.png") no-repeat 0px 50%;padding-left:30px}
+.logo2{top: 20px;left:70%;background: url("img/yangpinlian.png") no-repeat 0px 50%;padding-left:30px}
+.logo3{float: right}
+
+/*====================头部=================*/
+/*====================轮播 ================*/
+.lunbo{overflow: hidden;width:100%;height:535px;position: relative;padding-top: 80px}
+.lunbo img{position: absolute;left:-280px;top:0px}
+/*====================轮播 ================*/
+
+
+
+
+/*====================轮播 ================*/
+/*====================尾部 ================*/
+.wei{width: 100%;height:600px;background-color: #151515;clear: both;overflow: hidden}
+footer{width: 1200px;height:600px;background-color: #151515;
+    margin: 0px auto;padding-top:90px;clear: both;overflow: hidden}
+footer h1{font-size: 20px;color: #ffffff;padding:0px 0px 40px 20px;display: block}
+footer h2 a{font-size:14px;color: #ffffff;display: block;
+    margin:0px 20px 0px 20px;padding:15px 0px 15px 0px;border-bottom: 1px #333333 solid;}
+footer h2 a:hover{color: #ff001b}
+.wei1,.wei2,.wei3,.wei4{float: left}
+.wei1,.wei2,.wei4{width: 249px;height: 300px;border-right: 1px #333333 solid;}
+.wei3{width: 449px;height: 310px;border-right: 1px #333333 solid;position: relative}
+.wei3 h2 a{text-indent:45px;background: url("")}
+.wei_yi{color: #ff2b42;font-size: 10px;font-style:normal;
+    position:absolute;left:600px;bottom:-364px}
+.wei_yi li{margin-top:34px}
+
+.wei5{width:500px;height:200px;margin-top:380px}
+.wei5 h2 a{border: none}
+.wei5 li{display: inline-block;margin-left:20px}
+.wei5 li a{color: #ffffff;}
+.wei5 li a:hover{color: #ff001b }
+.wei5 h2 a:hover{color: #ffffff }
+/*====================尾部 ================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
